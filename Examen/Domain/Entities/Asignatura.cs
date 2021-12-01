@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Domain.Entities
 {
-    public class Entitie
+    public class Asignatura
     {
-        public string a { get; set; }
-        public int b { get; set; }
-        public decimal c { get; set; }
+        public int Id { get; set; }
+        public string Nombres { get; set; }
+        public int Creditos { get; set; }
     }
 }

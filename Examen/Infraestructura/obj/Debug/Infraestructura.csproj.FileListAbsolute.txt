@@ -1,0 +1,9 @@
+E:\Desktop\Examen\Examen\Infraestructura\bin\Debug\Infraestructura.dll
+E:\Desktop\Examen\Examen\Infraestructura\bin\Debug\Infraestructura.pdb
+E:\Desktop\Examen\Examen\Infraestructura\bin\Debug\Domain.dll
+E:\Desktop\Examen\Examen\Infraestructura\bin\Debug\Domain.pdb
+E:\Desktop\Examen\Examen\Infraestructura\obj\Debug\Infraestructura.csprojAssemblyReference.cache
+E:\Desktop\Examen\Examen\Infraestructura\obj\Debug\Infraestructura.csproj.CoreCompileInputs.cache
+E:\Desktop\Examen\Examen\Infraestructura\obj\Debug\Infraestructura.csproj.CopyComplete
+E:\Desktop\Examen\Examen\Infraestructura\obj\Debug\Infraestructura.dll
+E:\Desktop\Examen\Examen\Infraestructura\obj\Debug\Infraestructura.pdb
